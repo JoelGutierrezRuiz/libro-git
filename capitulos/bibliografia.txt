@@ -1,1 +1,2 @@
-Chacon, S. and Straub, B. Pro Git. Apress.
+Chacon, S. and Straub, B. Pro Git. Apres
+Leonardo di cabrio, michele moore
